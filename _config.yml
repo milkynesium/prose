@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          Prose
+description:    "Tidbits of thoughts and literature"
 baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+url:            "https://milkynesium.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Milkynesium
+  url:          https://milkynesium.com
+  email:        milkynesium@gmail.com
 
 # Build settings
 markdown:       kramdown
@@ -32,4 +32,4 @@ plugins:
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
-paginate:       5
+paginate:       7
