@@ -1,7 +1,7 @@
 # Site settings
 title:          Prose
 description:    "Tidbits of thoughts and literature"
-baseurl:        "/tale"
+baseurl:        "/prose"
 url:            "https://milkynesium.github.io"
 
 # Google Analytics
